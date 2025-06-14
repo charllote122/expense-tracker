@@ -50,8 +50,9 @@ expense-tracker/
 
 Installation & Running Locally
 
-```bash
-# Clone the repo
+bash
+
+Clone the repo
 git clone https://github.com/charllote122/expense-tracker.git
 cd expense-tracker
 
